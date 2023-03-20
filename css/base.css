@@ -1,0 +1,22 @@
+:root {
+  --green-text: rgb(8, 173, 8);
+}
+
+.white-style {
+  color: white;
+  margin-top: 20px;
+}
+
+.green-style {
+  color: var(--green-text);
+  font-size: 1rem;
+  padding-left: 20px;
+}
+
+.gray-style {
+  color: #3b3a3a;
+}
+
+.services__icon {
+  color: var(--green-text);
+}
